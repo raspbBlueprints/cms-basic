@@ -1,3 +1,1 @@
-# Eine kleine Geschichte
-
-Es war einmal ein kleiner Fuchs, der in einem großen, tiefen Wald lebte. Er war neugierig und abenteuerlustig und liebte es, neue Wege und geheime Pfade zu entdecken. Eines Tages fand er eine versteckte Lichtung, auf der die schönsten Blumen blühten, die er je gesehen hatte. Von diesem Tag an besuchte er die Lichtung jeden Tag und fühlte sich dort ganz besonders glücklich und frei.
+Es war einmal ein kleiner Bär, der in einem großen, tiefen Wald lebte. Er war neugierig und abenteuerlustig und liebte es, neue Wege und geheimnisvolle Pfade zu entdecken. Eines Tages fand er eine versteckte Lichtung, auf der die schönsten Blumen blühten, die er je gesehen hatte. Von diesem Tag an besuchte er diese Lichtung jeden Tag und fühlte sich dort geborgen und frei.
